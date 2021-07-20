@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section4\CompilerWarings
+-std=c++14
+-target
+
