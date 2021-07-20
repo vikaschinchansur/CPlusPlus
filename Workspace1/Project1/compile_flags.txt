@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Workspace1\Project1
+-std=c++17
+-target
+
