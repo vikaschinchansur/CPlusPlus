@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section5\BasicIO
+-std=c++17
+-target
+
