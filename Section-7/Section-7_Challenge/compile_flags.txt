@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section-7\Section-7_Challenge
+-std=c++17
+-target
+

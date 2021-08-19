@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section8\Section8ChallengeWithModulo
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section-10\CStyleStrings
+-std=c++17
+-target
+

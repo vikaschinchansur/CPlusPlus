@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section-10\Assignment-1
+-std=c++17
+-target
+
