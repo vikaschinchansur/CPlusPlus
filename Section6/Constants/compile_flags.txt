@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section6\Constants
+-std=c++17
+-target
+

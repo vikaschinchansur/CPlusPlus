@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section6\Primitivetypes
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section6\SizeOfOperator
+-std=c++17
+-target
+
