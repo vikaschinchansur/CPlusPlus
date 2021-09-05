@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="PointerIntro" Path="PointerIntro/PointerIntro.project" Active="No"/>
+  <Project Name="ArraysAndPointers" Path="ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
+  <Project Name="Section12_Challenge" Path="Section12_Challenge/Section12_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="PointerIntro" ConfigName="Debug"/>
+      <Project Name="ArraysAndPointers" ConfigName="Debug"/>
+      <Project Name="Section12_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="PointerIntro" ConfigName="Release"/>
+      <Project Name="ArraysAndPointers" ConfigName="Release"/>
+      <Project Name="Section12_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,4 @@
+-ID:\CodeLiteWorkspaces\Section12\ArraysAndPointers
+-std=c++17
+-target
+
